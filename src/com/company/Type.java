@@ -1,0 +1,8 @@
+package com.company;
+
+public enum Type {
+    COCKTAIL, JEANS, KNITTED,
+    SLEEVE, WITHOUT_SLEEVE, SHORT_SLEEVE, ZIPPED, NO_ZIPPED, WITH_HOOD,
+    SHORTS, LEGGINGS, MINI, LEATHER
+
+}
